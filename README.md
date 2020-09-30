@@ -4,7 +4,7 @@ A repository dedicated to learning and exploring various concepts, frameworks, p
 
 Topics Explored:
 
-[x] Call, Apply and Bind
-[x] Debouncing
-[ ] Throttling
-[x] Polyfills
+- [x] Call, Apply and Bind
+- [x] Debouncing
+- [ ] Throttling
+- [x] Polyfills
