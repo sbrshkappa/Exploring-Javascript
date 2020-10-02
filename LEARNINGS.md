@@ -18,3 +18,6 @@ Here's a list of all my learnings in javascript as I explore and learn more. I w
 
 - What is a polyfill? A script that adds/updates new functions is called "Polyfill". It's meant to fill the gap and add missing implementations.
 
+## React
+
+- The useRef hook is used to maintain a value across renders. It works like a state variable but doesn't trigger a render when it changes values (doesn't fire the useEffect hook).
